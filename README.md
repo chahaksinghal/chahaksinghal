@@ -17,7 +17,7 @@ Welcome to my profile! I am a passionate Software Engineering student dedicated 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Salesforce_AI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" />
+  
 </p>
 
 ---
